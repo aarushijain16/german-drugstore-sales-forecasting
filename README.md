@@ -51,3 +51,22 @@ This project employed a robust machine learning-driven approach to sales forecas
 Due to the confidential nature of the dataset and the analysis performed for the German drugstore chain, **the raw data and the project code cannot be shared publiclu** in this repository. This 'README.md' serves to outline the problem, methodology, and key findings of the project. 
 
 ## Visualisations:
+* **Figure 1**: Diagram illustrating the Data Preparation Process [ https://github.com/aarushijain16/german-drugstore-sales-forecasting/blob/main/1.png ]
+* **Figure 2**: Scatter Plot for Customers vs Sales [ https://github.com/aarushijain16/german-drugstore-sales-forecasting/blob/main/2.png ]
+* **Figure 3**: Average Sales and Customers per Store Type [ https://github.com/aarushijain16/german-drugstore-sales-forecasting/blob/main/3.png ]
+* **Figure 4**: Average Sales by Promo Interval and per State Holiday [ https://github.com/aarushijain16/german-drugstore-sales-forecasting/blob/main/4.png ]
+* **Figure 5**: Average Sales per Assortemnt and Average Sales vs Competition Distance [ https://github.com/aarushijain16/german-drugstore-sales-forecasting/blob/main/5.png ]
+* **Figure 6**: Average Sales by Day of Week [ https://github.com/aarushijain16/german-drugstore-sales-forecasting/blob/main/6.png ]
+* **Figure 7**: Diagram illustrating the Predictive Modelling Process [ https://github.com/aarushijain16/german-drugstore-sales-forecasting/blob/main/7.png  ]
+* **Fugure 8**: RMSPE of RF Model - Per Cluster [ https://github.com/aarushijain16/german-drugstore-sales-forecasting/blob/main/8.png ]
+* **Figure 9**: RMSE of RF Model - Per Cluster [ https://github.com/aarushijain16/german-drugstore-sales-forecasting/blob/main/9.png ]
+* **Figure 10**: RMSPE of MLP Model - Per Cluster [ https://github.com/aarushijain16/german-drugstore-sales-forecasting/blob/main/10.png ]
+* **Figure 11**: RMSE of MLP Model - Per Cluster [ https://github.com/aarushijain16/german-drugstore-sales-forecasting/blob/main/11.png ]
+* **Figure 12**: RMSE Score Comparison for RF and MLP [ https://github.com/aarushijain16/german-drugstore-sales-forecasting/blob/main/12.png ]
+* **Figure 13**: RMSPE Comparison for RF and MLP [ https://github.com/aarushijain16/german-drugstore-sales-forecasting/blob/main/13.png ]
+* **Figure 14**: Actual vs Predicted Sales comparison for RF Model [ https://github.com/aarushijain16/german-drugstore-sales-forecasting/blob/main/14.png ]
+* **Figure 15**: Diagram illustrating RMSE value for MLP and RF Model [ https://github.com/aarushijain16/german-drugstore-sales-forecasting/blob/main/15.png ]
+* **Figure 16**: Diagram illustrating the Predictive Sales [ https://github.com/aarushijain16/german-drugstore-sales-forecasting/blob/main/16.png ]
+* **Figure 17**: Boxplot of Sales and Customers grouped by Promo [ https://github.com/aarushijain16/german-drugstore-sales-forecasting/blob/main/17.png ]
+* **Figure 18**: Boxplot of Sales and Customers grouped by Promo2 [ https://github.com/aarushijain16/german-drugstore-sales-forecasting/blob/main/18.png ]
+* **Figure 19**: Boxplot of Sales and Customers by School Holiday [ https://github.com/aarushijain16/german-drugstore-sales-forecasting/blob/main/19.png ]
